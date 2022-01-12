@@ -13,12 +13,19 @@ This pack is setup to be copy/pasted into the data/images/forces folder.
 ## Force Icons
 ### MekHQ 0.48 Pack
 Jennifer "Kailan" Imbrie
+
 Dylan Myers <https://github.com/Dylan-M>
+
 Peter Farland <pfarland@live.com>
+
 Chris Thompson <http://bg.battletech.com/forums/index.php?action=profile;u=757>
+
 CarnageINC
+
 krazzyharry
+
 ### Mjolnir06 Pack
 Mjolnir06
+
 ## Other
 Justin "Windchild" Bowen - Creation, Organization
