@@ -17,13 +17,13 @@ This pack is setup to be copy/pasted into the data/images/force/Pieces folder.
 # Contributors:
 ## Force Icons
 ### MekHQ 0.48 Pack
-Jennifer "Kailan" Imbrie
+Kailan
 
-Dylan Myers <https://github.com/Dylan-M>
+Dylan Myers
 
-Peter Farland <pfarland@live.com>
+Peter Farland 
 
-Chris Thompson <http://bg.battletech.com/forums/index.php?action=profile;u=757>
+Chris Thompson
 
 CarnageINC
 
